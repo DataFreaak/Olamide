@@ -1,6 +1,3 @@
-# Olamide
-
-
 # Temitope Olajiga - Data Analyst at NHS
 
 ## 👨‍💻 Technical Skills
